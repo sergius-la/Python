@@ -9,17 +9,20 @@ print("Hello World!")
 
 ## Functions
 
-- *args, **kwargs - https://github.com/sergius-la/Python/blob/master/args.py
-- decorators - https://github.com/sergius-la/Python/blob/master/decorators.py
+- Python dics: Functions - TODO
+    - *args, **kwargs - https://github.com/sergius-la/Python/blob/master/args.py
+    - decorators - https://github.com/sergius-la/Python/blob/master/decorators.py
 
 ***
 
 ## Data Types
 
-- Dictinary - https://docs.python.org/3/library/stdtypes.html#dict
+- Python docs: Dictinary - https://docs.python.org/3/library/stdtypes.html#dict
     - dict - https://github.com/sergius-la/Python/blob/master/dict.py
-
-- List - https://github.com/sergius-la/Python/blob/master/list.py
+- Python docs: List - TODO
+    - List - https://github.com/sergius-la/Python/blob/master/list.py
+- Ptrhon docs: String - https://docs.python.org/3.7/library/string.html
+    - string - https://github.com/sergius-la/Python/blob/master/string.py
 
 ***
 
