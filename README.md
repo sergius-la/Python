@@ -9,7 +9,8 @@ print("Hello World!")
 
 ## Functions
 
-- Python dics: Functions - TODO
+- Python docs: Functions - TODO
+- Python dics: Built-in Functions - https://docs.python.org/3/library/functions.html
     - *args, **kwargs - https://github.com/sergius-la/Python/blob/master/args.py
     - decorators - https://github.com/sergius-la/Python/blob/master/decorators.py
 
