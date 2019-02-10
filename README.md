@@ -7,23 +7,44 @@ print("Hello World!")
 
 ***
 
+## Variables
+- __variables__ - https://github.com/sergius-la/Python/blob/master/var.py
+
+***
+
 ## Functions
 
-- Python docs: Functions - TODO
+<!-- - Python docs: Functions - TODO -->
 - Python dics: Built-in Functions - https://docs.python.org/3/library/functions.html
-    - *args, **kwargs - https://github.com/sergius-la/Python/blob/master/args.py
-    - decorators - https://github.com/sergius-la/Python/blob/master/decorators.py
+    - __*args, **kwargs__ - https://github.com/sergius-la/Python/blob/master/args.py
+    - __decorators__ - https://github.com/sergius-la/Python/blob/master/decorators.py
 
 ***
 
 ## Data Types
 
 - Python docs: Dictinary - https://docs.python.org/3/library/stdtypes.html#dict
-    - dict - https://github.com/sergius-la/Python/blob/master/dict.py
+    - __dict__ - https://github.com/sergius-la/Python/blob/master/dict.py
 - Python docs: List - TODO
-    - List - https://github.com/sergius-la/Python/blob/master/list.py
+    - __List__ - https://github.com/sergius-la/Python/blob/master/list.py
 - Ptrhon docs: String - https://docs.python.org/3.7/library/string.html
-    - string - https://github.com/sergius-la/Python/blob/master/string.py
+    - __string__ - https://github.com/sergius-la/Python/blob/master/string.py
+
+***
+
+## Standard Library
+
+Python docs: The Python Standard Library - https://docs.python.org/3/library/ 
+
+- Python docs: Configuration file parser - https://docs.python.org/3/library/configparser.html
+    - __config__ - https://github.com/sergius-la/Python/blob/master/config.py
+- Python docs: Operating system interfaces - https://docs.python.org/3/library/os.html
+    - __os__ - https://github.com/sergius-la/Python/blob/master/os_sys.py
+- Python docs: Basic date and time types - https://docs.python.org/3/library/datetime.html
+    - [EN] Date/time value manipulation - https://pymotw.com/2/datetime/
+- Python docs: Virtual Environments and Packages - https://docs.python.org/3/tutorial/venv.html
+    - [RU] Зачем и как использовать virtualenv - https://youtu.be/wTh-D8GTjeA
+- 
 
 ***
 
