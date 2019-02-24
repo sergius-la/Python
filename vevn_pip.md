@@ -2,12 +2,18 @@
 
 #### virtualenv
 
-> Create and Activate local virtual enviroment
-`virtualenv vevn --python=python3.7`
-`source vevn/bin/activate`
-
 Install __virtualenv__ package global <br>
 `sudo pip install virtualenv`
+
+> Create and Activate local virtual enviroment
+`virtualenv vevn --python=python3.7 && source vevn/bin/activate`
+
+Create a vartual enviroment: <br>
+- `python3 -m venv vevn`
+- `virtualenv vevn --python=python3.7`
+
+Activate vartual enviroment:
+`source vevn/bin/activate`
 
 ***
 
@@ -19,6 +25,9 @@ Install __pipenv__ package global <br>
 ### Package management system
 
 #### pip
+
+> Install list of requirements packages <br>
+`pip install -r requirements.txt`
 
 Install package <br>
 `pip install <package>`
