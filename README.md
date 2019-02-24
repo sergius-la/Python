@@ -40,11 +40,13 @@ Python docs: The Python Standard Library - https://docs.python.org/3/library/
     - __config__ - https://github.com/sergius-la/Python/blob/master/config.py
 - Python docs: Operating system interfaces - https://docs.python.org/3/library/os.html
     - __os__ - https://github.com/sergius-la/Python/blob/master/os_sys.py
-- Python docs: Basic date and time types - https://docs.python.org/3/library/datetime.html
+- Python docs: Basic __date__ and __time__ types - https://docs.python.org/3/library/datetime.html
     - [EN] Date/time value manipulation - https://pymotw.com/2/datetime/
-- Python docs: Virtual Environments and Packages - https://docs.python.org/3/tutorial/venv.html
-    - [RU] Зачем и как использовать virtualenv - https://youtu.be/wTh-D8GTjeA
-- 
+- Python docs: <br> Virtual Environments and Packages - https://docs.python.org/3/tutorial/venv.html
+Installing packages using pip and virtualenv - https://packaging.python.org/guides/installing-using-pip-and-virtualenv/ <br>
+    - [RU] Зачем и как использовать __virtualenv__ - https://youtu.be/wTh-D8GTjeA
+    - [RU] Что вам нужно знать о __pip__ - https://youtu.be/INVi_0pNSg8
+    - __virtualenv__ - https://github.com/sergius-la/Python/blob/master/vevn_pip.md
 
 ***
 
