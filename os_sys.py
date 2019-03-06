@@ -11,3 +11,9 @@ https://docs.python.org/2/library/os.html#os.listdir
 https://stackoverflow.com/questions/3207219/how-do-i-list-all-files-of-a-directory
 """
 files = os.listdir("path")
+
+
+"""
+https://docs.python.org/3/library/os.html#os.walk
+"""
+os.walk()

@@ -47,6 +47,7 @@ Installing packages using pip and virtualenv - https://packaging.python.org/guid
     - [RU] Зачем и как использовать __virtualenv__ - https://youtu.be/wTh-D8GTjeA
     - [RU] Что вам нужно знать о __pip__ - https://youtu.be/INVi_0pNSg8
     - __virtualenv__ - https://github.com/sergius-la/Python/blob/master/vevn_pip.md
+- __SQLite__: <br> Python docs: DB-API 2.0 interface for SQLite databases - https://docs.python.org/3.7/library/sqlite3.html
 
 ***
 
