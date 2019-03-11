@@ -29,7 +29,8 @@ print("Hello World!")
     - __List__ - https://github.com/sergius-la/Python/blob/master/list.py
 - Ptrhon docs: String - https://docs.python.org/3.7/library/string.html
     - __string__ - https://github.com/sergius-la/Python/blob/master/string.py
-
+- Ptrhon docs: ENUM - https://docs.python.org/3/library/enum.html
+    - __enum__ -  https://github.com/sergius-la/Python/blob/master/enum.py
 ***
 
 ## Standard Library
