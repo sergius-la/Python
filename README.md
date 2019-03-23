@@ -72,6 +72,18 @@ Installing packages using pip and virtualenv - https://packaging.python.org/guid
 
 ***
 
+# PyTest
+
+- PyTest docs - https://docs.pytest.org/en/latest/
+
+***
+
+# Selenium with Python
+
+- Selenium dosc - https://selenium-python.readthedocs.io/
+
+***
+
 ### CVS - Files
 Tutorial - https://www.programiz.com/python-programming/working-csv-files
 
