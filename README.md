@@ -1,5 +1,4 @@
-# Python
-
+# [logo]: https://github.com/sergius-la/Python/blob/master/img/py_icon.jpg Python 
 Hello World
 ```python
 print("Hello World!")
