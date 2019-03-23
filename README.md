@@ -1,6 +1,6 @@
-# Python ![alt text][logo]
+#![alt text][logo] Python
 
-[logo]: https://github.com/sergius-la/Python/blob/master/img/py_icon.jpg "Logo Title Text 2"
+[logo]: https://github.com/sergius-la/Python/blob/master/img/py_icon.jpg "logo"
 
 
 Hello World
