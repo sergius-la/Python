@@ -1,8 +1,9 @@
-# Python
+# Python <img src="https://github.com/sergius-la/Python/blob/master/img/py_icon.jpg" width="40" height="40">
 
-| Hello World |  >>>
---- | ---
-| <img src="https://github.com/sergius-la/Python/blob/master/img/py_icon.jpg" width="40" height="40"> | ```python print("Hello World!")```
+Hello World
+```python 
+print("Hello World!")
+```
 
 ***
 
