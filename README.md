@@ -1,6 +1,6 @@
 # ![alt text][logo] Python
 
-[logo]: (https://github.com/sergius-la/Python/blob/master/img/py_icon){:height="350px" width="350px"} "logo"
+![logo]: (https://github.com/sergius-la/Python/blob/master/img/py_icon?=s200)
 
 
 Hello World
