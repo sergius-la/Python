@@ -57,7 +57,7 @@ Installing packages using pip and virtualenv - https://packaging.python.org/guid
 
 ***
 
-## Django
+## <img src="https://github.com/sergius-la/Python/blob/master/img/django_icon.jpg" width="22"> Django
 
 [RU] Уроки Django 2.x - https://www.youtube.com/watch?v=T0Xi8gWDrQ0&list=PLlWXhlUMyooaDkd39pknA1-Olj54HtpjX
 
@@ -65,7 +65,7 @@ Installing packages using pip and virtualenv - https://packaging.python.org/guid
 
 ***
 
-## Plotly
+## <img src="https://github.com/sergius-la/Python/blob/master/img/plotly_icon.jpg" width="22"> Plotly
 
 - Plotly docs - https://plot.ly/python/
     - _Scatter_: Plotly docs  - https://plot.ly/javascript/reference/#scatter
