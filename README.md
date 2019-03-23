@@ -1,4 +1,4 @@
-#![alt text][logo] Python
+# ![alt text][logo] Python
 
 [logo]: https://github.com/sergius-la/Python/blob/master/img/py_icon.jpg "logo"
 
