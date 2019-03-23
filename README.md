@@ -1,6 +1,6 @@
 # ![alt text][logo] Python
 
-[logo]: https://github.com/sergius-la/Python/blob/master/img/py_icon.jpg=350x350 "logo"
+[logo]: (https://github.com/sergius-la/Python/blob/master/img/py_icon.jpg=350x350) "logo"
 
 
 Hello World
