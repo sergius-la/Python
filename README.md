@@ -1,4 +1,4 @@
-# Python <img src="https://github.com/sergius-la/Python/blob/master/img/py_icon.jpg" width="40" height="40">
+# <img src="https://github.com/sergius-la/Python/blob/master/img/py_icon.jpg" width="22" height="22"> Python
 
 Hello World
 ```python 
