@@ -16,8 +16,9 @@ print("Hello World!")
 
 <!-- - Python docs: Functions - TODO -->
 - Python dics: Built-in Functions - https://docs.python.org/3/library/functions.html
-    - __*args, **kwargs__ - https://github.com/sergius-la/Python/blob/master/args.py
-    - __decorators__ - https://github.com/sergius-la/Python/blob/master/decorators.py
+    - __*args, **kwargs__ - https://github.com/sergius-la/Python/blob/master/func/args.py
+    - __decorators__ - https://github.com/sergius-la/Python/blob/master/func/decorators.py
+    - __Measure execution time__ - https://github.com/sergius-la/Python/blob/master/func/exe_time.py
 
 ***
 
@@ -45,15 +46,24 @@ Python docs: The Python Standard Library - https://docs.python.org/3/library/
     - [EN] Date/time value manipulation - https://pymotw.com/2/datetime/
 - Python docs: <br> Virtual Environments and Packages - https://docs.python.org/3/tutorial/venv.html
 Installing packages using pip and virtualenv - https://packaging.python.org/guides/installing-using-pip-and-virtualenv/ <br>
-    - [RU] Зачем и как использовать __virtualenv__ - https://youtu.be/wTh-D8GTjeA
-    - [RU] Что вам нужно знать о __pip__ - https://youtu.be/INVi_0pNSg8
-    - __virtualenv__ - https://github.com/sergius-la/Python/blob/master/vevn_pip.md
+    - [RU] Зачем и как использовать virtualenv - https://youtu.be/wTh-D8GTjeA
+    - [RU] Что вам нужно знать о pip - https://youtu.be/INVi_0pNSg8
+    - __virtualenv / pip__ - https://github.com/sergius-la/Python/blob/master/vevn_pip.md
 - __SQLite__: <br> Python docs: DB-API 2.0 interface for SQLite databases - https://docs.python.org/3.7/library/sqlite3.html
 
 ***
 
-### Excel
-xlsxwriter - https://xlsxwriter.readthedocs.io/index.html
+## Django
+
+[RU] Уроки Django 2.x - https://www.youtube.com/watch?v=T0Xi8gWDrQ0&list=PLlWXhlUMyooaDkd39pknA1-Olj54HtpjX
+
+- __template__ - https://github.com/sergius-la/Python/blob/master/django/template.html
+
+***
+
+## Plotly
+
+
 
 ***
 
