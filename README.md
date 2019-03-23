@@ -1,4 +1,4 @@
-# <img src="https://github.com/sergius-la/Python/blob/master/img/py_icon.jpg" width="22" height="22"> Python
+# <img src="https://github.com/sergius-la/Python/blob/master/img/py_icon.jpg" width="24" height="24"> Python
 
 Hello World
 ```python 
@@ -57,7 +57,7 @@ Installing packages using pip and virtualenv - https://packaging.python.org/guid
 
 ***
 
-# <img src="https://github.com/sergius-la/Python/blob/master/img/django_icon.png" width="22"> Django
+# <img src="https://github.com/sergius-la/Python/blob/master/img/django_icon.png" width="24" height="24"> Django
 
 [RU] Уроки Django 2.x - https://www.youtube.com/watch?v=T0Xi8gWDrQ0&list=PLlWXhlUMyooaDkd39pknA1-Olj54HtpjX
 
@@ -65,7 +65,7 @@ Installing packages using pip and virtualenv - https://packaging.python.org/guid
 
 ***
 
-# <img src="https://github.com/sergius-la/Python/blob/master/img/plotly_icon.jpg" width="22"> Plotly
+# <img src="https://github.com/sergius-la/Python/blob/master/img/plotly_icon.jpg" width="24" height="24"> Plotly
 
 - Plotly docs - https://plot.ly/python/
     - _Scatter_: Plotly docs  - https://plot.ly/javascript/reference/#scatter
