@@ -20,6 +20,10 @@ print("Hello World!")
     - __decorators__ - https://github.com/sergius-la/Python/blob/master/func/decorators.py
     - __Measure execution time__ - https://github.com/sergius-la/Python/blob/master/func/exe_time.py
 
+## Try Except (Catch)
+
+- Python dics: Try Exept - https://docs.python.org/3/tutorial/errors.html 
+
 ***
 
 ## Data Types
@@ -36,13 +40,13 @@ print("Hello World!")
 
 ## Standard Library
 
-Python docs: The Python Standard Library - https://docs.python.org/3/library/ 
+The Python Standard Library: Python docs - https://docs.python.org/3/library/ 
 
-- Python docs: Configuration file parser - https://docs.python.org/3/library/configparser.html
+- _config_ / Configuration file parser: Python docs - https://docs.python.org/3/library/configparser.html
     - __config__ - https://github.com/sergius-la/Python/blob/master/config.py
-- Python docs: Operating system interfaces - https://docs.python.org/3/library/os.html
+- _os_ / Operating system interfaces: Python docs - https://docs.python.org/3/library/os.html
     - __os__ - https://github.com/sergius-la/Python/blob/master/os_sys.py
-- Python docs: Basic __date__ and __time__ types - https://docs.python.org/3/library/datetime.html
+- Basic _date_ and _time_ types: Python docs - https://docs.python.org/3/library/datetime.html
     - [EN] Date/time value manipulation - https://pymotw.com/2/datetime/
 - Python docs: <br> Virtual Environments and Packages - https://docs.python.org/3/tutorial/venv.html
 Installing packages using pip and virtualenv - https://packaging.python.org/guides/installing-using-pip-and-virtualenv/ <br>
@@ -63,7 +67,8 @@ Installing packages using pip and virtualenv - https://packaging.python.org/guid
 
 ## Plotly
 
-
+- Plotly docs - https://plot.ly/python/
+    - _Scatter_: Plotly docs  - https://plot.ly/javascript/reference/#scatter
 
 ***
 

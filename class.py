@@ -8,7 +8,7 @@ class Account:
     def _current_time():
         utc_time = datetime.datetime.utcnow()
         return pytz.utc.localize(utc_time)
-    
+
     # Constructor
     def __init__(self, name, balance):
         self._name = name

@@ -1,3 +1,63 @@
+import configparser
+import os
+
+class Config:
+    """
+    Methods:
+        - generate()
+        - add_value()
+        - get_section()
+        - add_value()
+    """
+    
+    @staticmethod
+    def generate():
+        """
+        Generate config.ini file
+        """
+
+        work_dir = os.getcwd()
+        config = configparser.ConfigParser()
+        config["Paths"] = { "home_dir" : work_dir,
+                            "test_reports_dir" : r"{wd}\test".format(wd = work_dir)}
+
+        config["Processing_files"] = {}
+        with open("config.ini", "w") as configfile:
+                config.write(configfile)
+
+    @staticmethod
+    def add_value(section, option, value):
+        """
+        Add value into config.ini file
+        """
+
+        config = configparser.ConfigParser()
+        config.read("config.ini")
+        config.set(section, option, value)
+        with open("config.ini", "w") as configfile:
+            config.write(configfile)
+
+    @staticmethod
+    def get_section(section):
+        """
+        Get a section in dict
+        """
+        
+        config = configparser.ConfigParser()
+        config.read("config.ini")
+        return dict(config.items(section))
+    
+    @staticmethod
+    def get_value(key, value):
+        """
+        Method for getting value from config.ini file
+        """
+
+        config = configparser.ConfigParser()
+        config.read("config.ini")
+        return config.get(key, value)
+
+
 """
 Iterate over sections in a config file - https://stackoverflow.com/questions/22068050/iterate-over-sections-in-a-config-file
 """
