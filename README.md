@@ -1,5 +1,11 @@
 # Python 
-[logo]: https://github.com/sergius-la/Python/blob/master/img/py_icon.jpg "Python Logo"
+
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://github.com/sergius-la/Python/blob/master/img/py_icon.jpg"Logo Title Text 2"
+
+
 Hello World
 ```python
 print("Hello World!")
