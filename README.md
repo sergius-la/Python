@@ -1,10 +1,8 @@
-# Python
-
-
+# <img src="https://github.com/sergius-la/Python/blob/master/img/py_icon.jpg" width="40" height="40">  Python
 
 Hello World
 ```python
-<img src="https://github.com/sergius-la/Python/blob/master/img/py_icon.jpg" width="32" height="32">  print("Hello World!")
+print("Hello World!")
 ```
 
 ***
