@@ -11,6 +11,12 @@ class Config:
     """
     
     @staticmethod
+    def _get_config():
+        config = configparser.ConfigParser()
+        config.read("config.ini")
+        return config
+
+    @staticmethod
     def generate():
         """
         Generate config.ini file
@@ -31,8 +37,7 @@ class Config:
         Add value into config.ini file
         """
 
-        config = configparser.ConfigParser()
-        config.read("config.ini")
+        config = Config._get_config()
         config.set(section, option, value)
         with open("config.ini", "w") as configfile:
             config.write(configfile)
@@ -43,8 +48,7 @@ class Config:
         Get a section in dict
         """
         
-        config = configparser.ConfigParser()
-        config.read("config.ini")
+        config = Config._get_config()
         return dict(config.items(section))
     
     @staticmethod
@@ -53,8 +57,7 @@ class Config:
         Method for getting value from config.ini file
         """
 
-        config = configparser.ConfigParser()
-        config.read("config.ini")
+        config = Config._get_config()
         return config.get(key, value)
 
 
@@ -63,6 +66,7 @@ Iterate over sections in a config file - https://stackoverflow.com/questions/220
 """
 
 # NOTE: Print section
+# TODO: Write debug method
 for each_section in conf.sections():
     for (each_key, each_val) in conf.items(each_section):
         print(each_key)
@@ -70,4 +74,5 @@ for each_section in conf.sections():
 
 
 # NOTE: Print whole config
+# TODO: Write debug method
 print({section: dict(config[section]) for section in config.sections()})
