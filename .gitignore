@@ -8,6 +8,7 @@ __pycache__/
 
 # Visual Studio Code
 .DS_Store
+*.code-workspace
 
 # Distribution / packaging
 .Python
