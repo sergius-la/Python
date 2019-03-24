@@ -92,7 +92,7 @@ Installing packages using pip and virtualenv - https://packaging.python.org/guid
 
 # <img src="https://github.com/sergius-la/Python/blob/master/img/selenium_icon.jpg" width="24" height="24"> Selenium with Python
 
-- Selenium dosc - https://selenium-python.readthedocs.io/
+- Selenium docs - https://selenium-python.readthedocs.io/
 
 ***
 
