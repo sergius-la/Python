@@ -72,13 +72,13 @@ Installing packages using pip and virtualenv - https://packaging.python.org/guid
 
 ***
 
-# PyTest
+# <img src="https://github.com/sergius-la/Python/blob/master/img/pytest_icon.png" width="24" height="24"> PyTest
 
 - PyTest docs - https://docs.pytest.org/en/latest/
 
 ***
 
-# Selenium with Python
+# <img src="https://github.com/sergius-la/Python/blob/master/img/selenium_icon.jpg" width="24" height="24"> Selenium with Python
 
 - Selenium dosc - https://selenium-python.readthedocs.io/
 
