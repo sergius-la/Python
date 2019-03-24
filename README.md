@@ -78,6 +78,18 @@ Installing packages using pip and virtualenv - https://packaging.python.org/guid
 
 ***
 
+# <img src="https://github.com/sergius-la/Python/blob/master/img/open_cv_icon.png" width="24" height="24"> Open CV
+
+- Open CV docs - https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_tutorials.html
+
+***
+
+# <img src="https://github.com/sergius-la/Python/blob/master/img/requests_icon.png" width="24" height="24"> Requests: HTTP for Humans
+
+- Requests: HTTP for Humans docs - https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_tutorials.html
+
+***
+
 # <img src="https://github.com/sergius-la/Python/blob/master/img/selenium_icon.jpg" width="24" height="24"> Selenium with Python
 
 - Selenium dosc - https://selenium-python.readthedocs.io/
