@@ -96,7 +96,7 @@ Installing packages using pip and virtualenv - https://packaging.python.org/guid
 
 ***
 
-# <img src="https://github.com/sergius-la/Python/blob/master/img/sqlalchemy_icon.jpg" width="48" height="24"> SQLAlchemy
+# <img src="https://github.com/sergius-la/Python/blob/master/img/sqlalchemy_icon.jpg" width="64" height="30"> SQLAlchemy
 
 - SQLAlchemy docs - https://www.sqlalchemy.org/
 
