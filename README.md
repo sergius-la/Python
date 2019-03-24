@@ -96,6 +96,12 @@ Installing packages using pip and virtualenv - https://packaging.python.org/guid
 
 ***
 
+# <img src="https://github.com/sergius-la/Python/blob/master/img/sqlalchemy_icon.jpg" width="48" height="24"> SQLAlchemy
+
+- SQLAlchemy docs - https://www.sqlalchemy.org/
+
+***
+
 ### CVS - Files
 Tutorial - https://www.programiz.com/python-programming/working-csv-files
 
