@@ -2,8 +2,15 @@
 
 ## Template inheritance
 
+### Extends
+
+```html
+{% extends 'blog/base.html' %}
+```
+
 ### Include
 https://docs.djangoproject.com/es/1.10/ref/templates/builtins/#include
+
 ```html
 {% include "app/includes/block.html" %}
 ```
@@ -13,6 +20,24 @@ https://docs.djangoproject.com/es/1.10/ref/templates/builtins/#include
 ## Variables
 ```html
 {{ variable }}
+```
+
+***
+
+## Blocks
+
+### Title
+```html
+{% block title %}
+    Default Title 
+{% endblock %}
+```
+
+### Content
+```html
+{% block content %}
+    Content
+{% endblock %}
 ```
 
 ***

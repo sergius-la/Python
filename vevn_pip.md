@@ -36,5 +36,5 @@ Install package for specific version of Python <br>
 `python<v> -m pip install <package>` <br>
 `python3.7 -m pip install python-barcode`
 
-
-
+`pip freeze`
+`pip freeze > requirements.txt`
