@@ -64,7 +64,7 @@ The Python Standard Library: Python docs - https://docs.python.org/3/library/
 
 [RU] Уроки Django 2.x - https://www.youtube.com/watch?v=T0Xi8gWDrQ0&list=PLlWXhlUMyooaDkd39pknA1-Olj54HtpjX
 
-- __template__ - https://github.com/sergius-la/Python/blob/master/django/template.html
+- [__Django template__](/django/template.html)
 
 ***
 

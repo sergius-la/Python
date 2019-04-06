@@ -1,4 +1,4 @@
-### Virtual Enviroment
+# Virtual Enviroment
 
 #### virtualenv
 
@@ -13,7 +13,8 @@ Create a vartual enviroment: <br>
 - `virtualenv vevn --python=python3.7`
 
 Activate vartual enviroment:
-`source vevn/bin/activate`
+- Linux / Mac `~/vevn/bin/activate`
+- Windows `~/vevn/Scripts/activate.bat`
 
 ***
 
@@ -22,7 +23,7 @@ Activate vartual enviroment:
 Install __pipenv__ package global <br>
 `pip install pipenv`
 
-### Package management system
+# Package management system
 
 #### pip
 
