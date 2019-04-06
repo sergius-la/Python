@@ -68,7 +68,7 @@ The Python Standard Library: Python docs - https://docs.python.org/3/library/
 
 ***
 
-# <img src="https://github.com/sergius-la/Python/blob/master/img/plotly_icon.jpg" width="24" height="24"> Plotly
+# <img src="/img/plotly_icon.jpg" width="24" height="24"> Plotly
 
 - Plotly docs - https://plot.ly/python/
     - _Scatter_: Plotly docs  - https://plot.ly/javascript/reference/#scatter
