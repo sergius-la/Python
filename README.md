@@ -46,6 +46,7 @@ The Python Standard Library: Python docs - https://docs.python.org/3/library/
     - __config__ - https://github.com/sergius-la/Python/blob/master/config.py
 - _os_ / Operating system interfaces: Python docs - https://docs.python.org/3/library/os.html
     - __os__ - https://github.com/sergius-la/Python/blob/master/os_sys.py
+    - [__path__](/path.py)
 - Basic _date_ and _time_ types: Python docs - https://docs.python.org/3/library/datetime.html
     - [EN] Date/time value manipulation - https://pymotw.com/2/datetime/
     - Date time tutorial - https://www.saltycrane.com/blog/2008/06/how-to-get-current-date-and-time-in/
