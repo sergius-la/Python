@@ -10,17 +10,18 @@ months = {
     3: "March"
 }
 
-"""
-NOTE: Update value
-Python docs - https://docs.python.org/3/library/stdtypes.html#dict.update
-"""
+# Add new element - O(1)
 months[1]="December"
+
+# Update value
+# Python docs - https://docs.python.org/3/library/stdtypes.html#dict.update
+months[1]="January"
 
 # NOTE: Print dict
 print("{" + "\n".join("{}: {}".format(k, v) for k, v in months.items()) + "}")
 
-# NOTE: Accessing by index
-print(months[1]) # December
+# NOTE: Accessing by index - O(1)
+print(months[1]) # January
 
 # NOTE: Accessing to invalid index
 print(months.get(4, "Not a valid key")) # Not a valid key
