@@ -13,7 +13,9 @@ Create a vartual enviroment: <br>
 - `virtualenv vevn --python=python3.7`
 
 Activate vartual enviroment:
-- Linux / Mac `~/vevn/bin/activate`
+- Linux / Mac:
+    - `~/vevn/bin/activate`
+    - `. bin/activate`
 - Windows `~/vevn/Scripts/activate.bat`
 
 ***

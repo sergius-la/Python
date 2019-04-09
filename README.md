@@ -31,9 +31,11 @@ print("Hello World!")
 - Python docs: Dictinary - https://docs.python.org/3/library/stdtypes.html#dict
     - __dict__ - https://github.com/sergius-la/Python/blob/master/dict.py
 - Python docs: List - TODO
-    - __List__ - https://github.com/sergius-la/Python/blob/master/list.py
+    - __List / Tuple__ - https://github.com/sergius-la/Python/blob/master/list.py
 - Ptrhon docs: String - https://docs.python.org/3.7/library/string.html
     - __string__ - https://github.com/sergius-la/Python/blob/master/string.py
+- Python docs: Set - TODO
+    - __set__ - https://github.com/sergius-la/Python/blob/master/set.py
 - Ptrhon docs: ENUM - https://docs.python.org/3/library/enum.html
     - __enum__ -  https://github.com/sergius-la/Python/blob/master/enum.py
 ***
@@ -65,7 +67,9 @@ The Python Standard Library: Python docs - https://docs.python.org/3/library/
 
 [RU] Уроки Django 2.x - https://www.youtube.com/watch?v=T0Xi8gWDrQ0&list=PLlWXhlUMyooaDkd39pknA1-Olj54HtpjX
 
-- [__Django template__](/django/template.html)
+- Static files - https://docs.djangoproject.com/en/2.1/howto/static-files/
+- [__Django template__](/django/template.md)
+- [__Object relation mapping__](/django/orm.md)
 
 ***
 
