@@ -59,3 +59,8 @@ https://docs.djangoproject.com/es/1.10/ref/templates/builtins/#include
 ```html
 {{ test.avg|floatformat:2 }}
 ```
+
+***
+
+## Images
+`<img src="/static{{path.0}}">`
