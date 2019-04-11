@@ -14,15 +14,18 @@ print("Hello World!")
 
 ## Functions
 
-<!-- - Python docs: Functions - TODO -->
-- Python dics: Built-in Functions - https://docs.python.org/3/library/functions.html
-    - __*args, **kwargs__ - https://github.com/sergius-la/Python/blob/master/func/args.py
-    - __decorators__ - https://github.com/sergius-la/Python/blob/master/func/decorators.py
-    - __Measure execution time__ - https://github.com/sergius-la/Python/blob/master/func/exe_time.py
+- __*args, **kwargs__ - https://github.com/sergius-la/Python/blob/master/func/args.py
+- __decorators__ - https://github.com/sergius-la/Python/blob/master/func/decorators.py
+- __Measure execution time__ - https://github.com/sergius-la/Python/blob/master/func/exe_time.py
+
+## Built-in Functions
+
+- [Py docs: Built-in Functions](https://docs.python.org/3/library/functions.html)
+    - [__exec()__](/py_exec.py)
 
 ## Try Except (Catch)
 
-- Python dics: Try Exept - https://docs.python.org/3/tutorial/errors.html 
+- Python docs: Try Exept - https://docs.python.org/3/tutorial/errors.html 
 
 ***
 
@@ -54,12 +57,24 @@ The Python Standard Library: Python docs - https://docs.python.org/3/library/
     - Date time tutorial - https://www.saltycrane.com/blog/2008/06/how-to-get-current-date-and-time-in/
 - _Virtual Environments_ and _Packages_: Python docs - https://docs.python.org/3/tutorial/venv.html
     - __virtualenv / pip__ - https://github.com/sergius-la/Python/blob/master/vevn_pip.md
+    - [__Modules & Packages__](/packahes.md)
+    - [__setup.py:__](/setup.md)
+        - [module import error](https://stackoverflow.com/questions/15368054/import-error-on-installed-package-using-setup-py)
+        - [setup.py (for humans)](https://github.com/kennethreitz/setup.py)
     - Installing packages using pip and virtualenv: Python docs - https://packaging.python.org/guides/installing-using-pip-and-virtualenv/
     - [RU] Зачем и как использовать virtualenv - https://youtu.be/wTh-D8GTjeA
     - [RU] Что вам нужно знать о pip - https://youtu.be/INVi_0pNSg8
 - DB-API 2.0 interface for _SQLite_ databases: Python docs - https://docs.python.org/3.7/library/sqlite3.html
 - CSV File Reading and Writing: Python docs - https://docs.python.org/3/library/csv.html
     - CVS Files Tutorial - https://www.programiz.com/python-programming/working-csv-files
+- Collections:
+    - [__Counter__](/counter.py)
+
+***
+
+## Python application structure
+
+- [Python-application-layouts](https://realpython.com/python-application-layouts/)
 
 ***
 

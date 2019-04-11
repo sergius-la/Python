@@ -27,20 +27,30 @@ Install __pipenv__ package global <br>
 
 # Package management system
 
-#### pip
+## pip
+
+#### pip install
 
 > Install list of requirements packages <br>
 `pip install -r requirements.txt`
 
-Install package <br>
+- Install package <br>
 `pip install <package>`
+- Install package from git <br>
+`pip install git+<repository_link.git>`
+    - Install package from git@branch <br>
+    `pip install git+<repository_link.git>@<branch_name>`
 
 Install package for specific version of Python <br>
 `python<v> -m pip install <package>` <br>
 `python3.7 -m pip install python-barcode`
 
+#### pip uninstall
+
+- Delete package <br>
+`pip uninstall <packge>`
+
+#### pip freeze
+
 `pip freeze`
 `pip freeze > requirements.txt`
-
-Show package information <br>
-`pip show <package>`
