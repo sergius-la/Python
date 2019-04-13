@@ -105,6 +105,8 @@ The Python Standard Library: Python docs - https://docs.python.org/3/library/
 
 - Open CV docs - https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_tutorials.html
 
+`pip install opencv-python`
+
 ***
 
 # <img src="https://github.com/sergius-la/Python/blob/master/img/requests_icon.png" width="24" height="24"> Requests: HTTP for Humans
