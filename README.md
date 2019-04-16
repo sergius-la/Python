@@ -85,7 +85,7 @@ The Python Standard Library: Python docs - https://docs.python.org/3/library/
 
 # <img src="https://github.com/sergius-la/Python/blob/master/img/django_icon.png" width="24" height="24"> Django
 
-[RU] Уроки Django 2.x - https://www.youtube.com/watch?v=T0Xi8gWDrQ0&list=PLlWXhlUMyooaDkd39pknA1-Olj54HtpjX
+[_[RU] Уроки Django 2.x_](https://www.youtube.com/watch?v=T0Xi8gWDrQ0&list=PLlWXhlUMyooaDkd39pknA1-Olj54HtpjX)
 
 - Static files - https://docs.djangoproject.com/en/2.1/howto/static-files/
 - [__Django template__](/django/template.md)
@@ -95,22 +95,23 @@ The Python Standard Library: Python docs - https://docs.python.org/3/library/
 
 # <img src="/img/plotly_icon.jpg" width="24" height="24"> Plotly
 
-- Plotly docs - https://plot.ly/python/
-    - _Scatter_: Plotly docs  - https://plot.ly/javascript/reference/#scatter
+- [Plotly docs](https://plot.ly/python/)
+    - [_Scatter_](https://plot.ly/javascript/reference/#scatter)
 
 ***
 
 # <img src="https://github.com/sergius-la/Python/blob/master/img/pytest_icon.png" width="24" height="24"> PyTest
 
-- PyTest docs - https://docs.pytest.org/en/latest/
+- [PyTest docs](https://docs.pytest.org/en/latest/)
 
 ***
 
 # <img src="https://github.com/sergius-la/Python/blob/master/img/open_cv_icon.png" width="24" height="24"> Open CV
 
-- Open CV docs - https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_tutorials.html
+- [Open CV docs](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_tutorials.html)
+- [pip docs](https://pypi.org/project/opencv-python/)
 
-`pip install opencv-python` - [pip docs](https://pypi.org/project/opencv-python/)
+`pip install opencv-python` 
 
  - [__Image__](/openCV/image.md)
 
@@ -118,25 +119,25 @@ The Python Standard Library: Python docs - https://docs.python.org/3/library/
 
 # <img src="https://github.com/sergius-la/Python/blob/master/img/requests_icon.png" width="24" height="24"> Requests: HTTP for Humans
 
-- Requests: HTTP for Humans docs - https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_tutorials.html
+- [Requests: HTTP for Humans docs](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_tutorials.html)
 
 ***
 
 # <img src="https://github.com/sergius-la/Python/blob/master/img/selenium_icon.jpg" width="24" height="24"> Selenium with Python
 
-- Selenium docs - https://selenium-python.readthedocs.io/
+- [Selenium docs](https://selenium-python.readthedocs.io/)
 
 ***
 
 # <img src="https://github.com/sergius-la/Python/blob/master/img/sqlalchemy_icon.jpg" width="64" height="30"> SQLAlchemy
 
-- SQLAlchemy docs - https://www.sqlalchemy.org/
+- [SQLAlchemy docs](https://www.sqlalchemy.org/)
 
 *** 
 
 # <img src="https://github.com/sergius-la/Python/blob/master/img/bs.jpg" width="24" height="24"> Beautiful Soup
 
-- Beautiful Soup docs - https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+- [Beautiful Soup docs](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
 `pip install beautifulsoup4` 
 
