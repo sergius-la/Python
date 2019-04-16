@@ -37,3 +37,18 @@ for key, value in months.items():
     print("Key {}".format(key))
     print("Value {}".format(value))
 
+"""
+Change the key name
+https://stackoverflow.com/questions/4406501/change-the-name-of-a-key-in-dictionary
+"""
+
+dictionary[new_key] = dictionary.pop(old_key)
+
+
+"""
+Find Max / Min - Value
+http://www.aroseartist.com/python-dictionary-max-min/
+"""
+
+letter_dict = {'l': 5, 'g': 2, 'b': 1, 't': 3}
+max(letter_dict, key = lambda x: letter_dict.get(x) )

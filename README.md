@@ -1,6 +1,9 @@
 # <img src="https://github.com/sergius-la/Python/blob/master/img/py_icon.jpg" width="24" height="24"> Python
 
-Hello World
+```python
+import this
+```
+
 ```python 
 print("Hello World!")
 ```
@@ -22,6 +25,7 @@ print("Hello World!")
 
 - [Py docs: Built-in Functions](https://docs.python.org/3/library/functions.html)
     - [__exec()__](/py_exec.py)
+    - [__help()__](/py_help.md)
 
 ## Try Except (Catch)
 
@@ -50,7 +54,8 @@ The Python Standard Library: Python docs - https://docs.python.org/3/library/
 - _config_ / Configuration file parser: Python docs - https://docs.python.org/3/library/configparser.html
     - __config__ - https://github.com/sergius-la/Python/blob/master/config.py
 - _os_ / Operating system interfaces: Python docs - https://docs.python.org/3/library/os.html
-    - __os__ - https://github.com/sergius-la/Python/blob/master/os_sys.py
+    - [__os__:](/os.md)
+        - Environment Variables
     - [__path__](/path.py)
 - Basic _date_ and _time_ types: Python docs - https://docs.python.org/3/library/datetime.html
     - [EN] Date/time value manipulation - https://pymotw.com/2/datetime/
@@ -105,7 +110,9 @@ The Python Standard Library: Python docs - https://docs.python.org/3/library/
 
 - Open CV docs - https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_tutorials.html
 
-`pip install opencv-python`
+`pip install opencv-python` - [pip docs](https://pypi.org/project/opencv-python/)
+
+ - [__Image__](/openCV/image.md)
 
 ***
 
@@ -124,3 +131,28 @@ The Python Standard Library: Python docs - https://docs.python.org/3/library/
 # <img src="https://github.com/sergius-la/Python/blob/master/img/sqlalchemy_icon.jpg" width="64" height="30"> SQLAlchemy
 
 - SQLAlchemy docs - https://www.sqlalchemy.org/
+
+*** 
+
+# <img src="https://github.com/sergius-la/Python/blob/master/img/bs.jpg" width="24" height="24"> Beautiful Soup
+
+- Beautiful Soup docs - https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+
+`pip install beautifulsoup4` 
+
+***
+
+# <img src="https://github.com/sergius-la/Python/blob/master/img/pandas.jpg" width="64" height="30"> Pandas
+
+- [Pandas docs](https://pandas.pydata.org/)
+- [Pip docs](https://pypi.org/project/pandas/)
+
+`pip install pandas`
+
+***
+
+# <img src="https://github.com/sergius-la/Python/blob/master/img/numpy.jpg" width="24" height="24"> Numpu
+
+- [Pip docs](https://pypi.org/project/numpy/)
+
+`pip install numpy`
