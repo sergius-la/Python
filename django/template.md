@@ -61,6 +61,10 @@ https://docs.djangoproject.com/es/1.10/ref/templates/builtins/#include
 ```html
 {{ test.avg|floatformat:2 }}
 ```
+### String truncatewords
+```html
+<p class="card-text">{{post.body|truncatewords:15}}</p>
+```
 
 ***
 

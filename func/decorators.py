@@ -1,9 +1,5 @@
 from datetime import datetime
 
-"""
-[RU] Декораторы - https://www.youtube.com/watch?v=Ss1M32pp5Ew
-"""
-
 def timeit(func):
     def wrapper(*args, **kwargs):
         start = datetime.now()
