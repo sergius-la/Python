@@ -63,12 +63,11 @@ print("Hello World!")
     - [__set__](/set.py)
 - [_Py docs: ENUM_](https://docs.python.org/3/library/enum.html)
     - [__enum__](/enum.py)
-- [__queue__]
-
 - Collections:
     - [__Counter__](/counter.py)
     - [__defaultdict__]
     - [__namedtuple__]
+    - [__queue__]
 
 ## OOP
 
