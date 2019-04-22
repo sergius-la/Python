@@ -191,6 +191,7 @@ print("Hello World!")
 `pip install beautifulsoup4` 
 
 - [_Beautiful Soup docs_](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+    - [__soup__](/soup/soup.md)
 
 ***
 
