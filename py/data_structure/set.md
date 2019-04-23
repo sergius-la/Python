@@ -1,4 +1,4 @@
-
+```python
 # set.intersection(another_set) TODO
 
 set()
@@ -13,3 +13,4 @@ print(2 in ex_set)
 
 # Set interseption
 print(ex2_set.intersection(ex_set))
+```

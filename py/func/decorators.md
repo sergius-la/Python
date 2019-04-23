@@ -1,3 +1,4 @@
+```python
 from datetime import datetime
 
 def timeit(func):
@@ -26,4 +27,4 @@ a = l1(10) # [0, 2, 4, 6, 8]
 
 l2 = timeit(one)
 b = l2(10) # 0:00:00.000401
-
+```

@@ -1,4 +1,4 @@
-
+```python
 """
 Python list - https://docs.python.org/3/library/stdtypes.html#list
 Python tuple - TODO: Add link
@@ -55,3 +55,17 @@ x = [3, 2, 1]
 x.sort()  # Changing
 sorted(x) # Not changing
 
+
+
+### Tuple
+
+tuple()
+# NOTE: Initialize one element
+a = (1,)
+
+x = (1, 2, 3, 4, 5, 5)
+z = 1, 2, 3, 4, 5
+
+# List of Tuples
+y = [(1, 2), (2, 3)]
+```
