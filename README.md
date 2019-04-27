@@ -41,11 +41,14 @@ print("Hello World!")
 - [_Py docs: Built-in Functions_](https://docs.python.org/3/library/functions.html)
     - [__exec()__](/py/built_in_func/py_exec.py)
     - [__help()__](/py/built_in_func/py_help.md)
+    - [__slice() [:]__](/py/built_in_func/slice.md)
+    - [__type()__](/py/built_in_func/type.md)
+    - [__@property__](/py/oop/class.md)
     - [__enumerate()__]
     - [__sorted()__]
-    - [__slice[:]__]
-    - [__type()__]
     - [__isinstance()__]
+    - [__round()__]
+    
 
 ## Try Except (Catch)
 
@@ -75,12 +78,16 @@ print("Hello World!")
     - [__defaultdict__]
     - [__namedtuple__]
     - [__queue__]
+    - [__iter:__ next()]
+    - [__zip__]
+    - [__vars__] - Returns `dict{attribute: value}` an object's 
 
 ***
 
 ## OOP
 
-- [__class__](/py/oop/class.md)
+- [__class:__ @property](/py/oop/class.md)
+    - [_Stack Overflow: Iterate over class attributes_](https://stackoverflow.com/questions/11637293/iterate-over-object-attributes-in-python)
 - [__Magic methods__](/py/oop/magic_methods.md)
     - [_A Guide to Python's Magic Methods_](https://rszalski.github.io/magicmethods/)
 
@@ -88,9 +95,29 @@ print("Hello World!")
 
 ## Standard Library
 
-- [__operators__](/py/operators.md)
+[__yield__]
 
 [_Py docs: The Python Standard Library_](https://docs.python.org/3/library/)
+
+- [_Py docs: Operators_](https://docs.python.org/3/library/operator.html)
+    - [__operators__](/py/operators.md)
+- [_Py docs: Coroutines and Tasks_](https://docs.python.org/3/library/asyncio-task.html)
+    - [__Coroutines__]
+
+### Virtual Environments and Packages
+
+- [_Py docs: Virtual Environments and Packages_](https://docs.python.org/3/tutorial/venv.html)
+    - [__virtualenv / pip__](/py/pack_venv/vevn_pip.md)
+    - [__Modules & Packages__](/py/pack_venv/packahes.md)
+        - [__import:__ ImportError](/py/pack_venv/import.md)
+    - [__setup.py:__](/py/pack_venv/setup.md)
+        - [_Stack overflow: module import error_](https://stackoverflow.com/questions/15368054/import-error-on-installed-package-using-setup-py)
+        - [_setup.py (for humans)_](https://github.com/kennethreitz/setup.py)
+    - [_Py docs: Installing packages using pip and virtualenv_](https://packaging.python.org/guides/installing-using-pip-and-virtualenv/) 
+    - [_[RU] Зачем и как использовать virtualenv_](https://youtu.be/wTh-D8GTjeA)
+    - [_[RU] Что вам нужно знать о pip_](https://youtu.be/INVi_0pNSg8)
+
+### Standard Modules
 
 - [_Py docs: Configuration file parser_](https://docs.python.org/3/library/configparser.html)
     - [__config__](/py/config.md)
@@ -100,15 +127,6 @@ print("Hello World!")
 - [_Py docs: Basic date and time types_](https://docs.python.org/3/library/datetime.html)
     - [_[EN] Date/time value manipulation_](https://pymotw.com/2/datetime/)
     - [_Date time tutorial_](https://www.saltycrane.com/blog/2008/06/how-to-get-current-date-and-time-in/)
-- [_Py docs: Virtual Environments and Packages_](https://docs.python.org/3/tutorial/venv.html)
-    - [__virtualenv / pip__](/py/pack_venv/vevn_pip.md)
-    - [__Modules & Packages__](/py/pack_venv/packahes.md)
-    - [__setup.py:__](/py/pack_venv/setup.md)
-        - [_Stack overflow: module import error_](https://stackoverflow.com/questions/15368054/import-error-on-installed-package-using-setup-py)
-        - [_setup.py (for humans)_](https://github.com/kennethreitz/setup.py)
-    - [_Py docs: Installing packages using pip and virtualenv_](https://packaging.python.org/guides/installing-using-pip-and-virtualenv/) 
-    - [_[RU] Зачем и как использовать virtualenv_](https://youtu.be/wTh-D8GTjeA)
-    - [_[RU] Что вам нужно знать о pip_](https://youtu.be/INVi_0pNSg8)
 - [_Py docs: DB-API 2.0 interface for SQLite databases_](https://docs.python.org/3.7/library/sqlite3.html)
     - [__sqlite3__](/py/db/sqlite3.mds)
 - [_Py docs: CSV File Reading and Writing_](https://docs.python.org/3/library/csv.html)
@@ -177,6 +195,16 @@ print("Hello World!")
 [_pip docs_](https://pypi.org/project/pytest/)
 
 - [_PyTest docs_](https://docs.pytest.org/en/latest/)
+    - [_PyTest docs: Parametrizing tests / DataProvider_](https://docs.pytest.org/en/latest/example/parametrize.html)
+
+[__pytest:__ DataProvider](/pytest/pytest.md)
+
+
+Run tests - `py.test -v`
+
+VS Code - Enable PyTest 
+
+`Manage > Settings > Search: Python › Testing: Py Test Enabled` set to `true`
 
 ***
 
@@ -244,4 +272,14 @@ print("Hello World!")
 
 `pip install numpy`
 
-[_Pip docs_](https://pypi.org/project/numpy/) 
+[_Pip docs_](https://pypi.org/project/numpy/)
+
+***
+
+# <img src="/img/scipy.jpg" width="24" height="24"> Scipy
+
+`pip install scipy`
+
+[_Pip docs_](https://pypi.org/project/scipy/)
+
+- [_Scipy docs_](https://www.scipy.org/docs.html)

@@ -17,6 +17,10 @@ os.environ["DEBUSSY"] = "1"
 
 ## Path
 
+Methods:
+- os.path.exists()
+- os.path.isfile()
+
 [_Stack Overflow: Check existing path_](https://stackoverflow.com/questions/82831/how-do-i-check-whether-a-file-exists-without-exceptions)
 ```python
 import os.path
@@ -27,6 +31,11 @@ os.path.exists("<path>")
 Path to the file's directory
 ```python
 file_dir = os.path.abspath(os.path.dirname(__file__))
+```
+
+Check path to a file
+```python
+os.path.isfile("<path>")
 ```
 
 <!-- """

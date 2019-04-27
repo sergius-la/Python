@@ -1,3 +1,5 @@
+# ENUM
+
 ```python
 from enum import Enum
 
@@ -9,4 +11,6 @@ class Process(Enum):
 
 for i in Process:
     print(i) # VSCODE, SYS
+
+sys_pid = Process.SYS.value.get("pid") # 88
 ```

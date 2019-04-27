@@ -1,24 +1,17 @@
 # String
 
 methods:
-- .lower()
-- .upper()
+- .lower() - hello world!
+- .upper() - HELLO WORLD!
 - .split()
 - .strip()
+- .capitalize()
+- .isspace()
 
 ```python
 """
 Python String Literals - https://docs.python.org/3/reference/lexical_analysis.html#literals
 """
-
-string = "Hello World!"
-
-# NOTE: lower()
-print(string.lower()) # hello world!
-
-# NOTE: upper()
-print(string.upper()) # HELLO WORLD!
-
 
 class Kettle(object):
 
@@ -41,6 +34,8 @@ print(x.index("B")) # 1
 print(x.index("D")) # ValueError: substring not found
 
 raw_string = r""
+
+new_line = "\n"
 
 tab_string = "1\t2\t3\t4"
 

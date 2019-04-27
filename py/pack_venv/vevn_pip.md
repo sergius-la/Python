@@ -6,17 +6,17 @@ Install __virtualenv__ package global <br>
 `sudo pip install virtualenv`
 
 > Create and Activate local virtual enviroment
-`virtualenv vevn --python=python3.7 && source vevn/bin/activate`
+`virtualenv venv --python=python3.7 && source venv/bin/activate`
 
 Create a vartual enviroment: <br>
-- `python3 -m venv vevn`
-- `virtualenv vevn --python=python3.7`
+- `python3 -m venv venv`
+- `virtualenv venv --python=python3.7`
 
 Activate vartual enviroment:
 - Linux / Mac:
-    - `~/vevn/bin/activate`
+    - `~` `/venv/bin/activate`
     - `. bin/activate`
-- Windows `~/vevn/Scripts/activate.bat`
+- Windows `~` `venv\\Scripts\\activate.bat`
 
 ***
 

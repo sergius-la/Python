@@ -6,3 +6,9 @@ Get list of all installed modules from Python Console:
 $ python
 $ help("modules")
 ```
+
+Get a fucntion description
+
+```python
+help(len)
+```
