@@ -276,7 +276,7 @@ VS Code - Enable PyTest
 
 ***
 
-# <img src="/img/scipy.jpg" width="24" height="24"> Scipy
+# <img src="/img/scipy.png" width="24" height="24"> Scipy
 
 `pip install scipy`
 
