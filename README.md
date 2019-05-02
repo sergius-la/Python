@@ -122,7 +122,7 @@ print("Hello World!")
 - [_Py docs: Configuration file parser_](https://docs.python.org/3/library/configparser.html)
     - [__config__](/py/config.md)
 - [_Py docs: Operating system interfaces_](https://docs.python.org/3/library/os.html)
-    - [__os__: Environment Variables, Path](/py/modules/os.md)
+    - [__os__: Environment Variables, Path, pid](/py/modules/os.md)
     - [__sys__](/py/modules/sys.md)
 - [_Py docs: Basic date and time types_](https://docs.python.org/3/library/datetime.html)
     - [_[EN] Date/time value manipulation_](https://pymotw.com/2/datetime/)
@@ -133,6 +133,8 @@ print("Hello World!")
     - [__csv__](/py/csv.md)
     - [_CVS Files Tutorial_](https://www.programiz.com/python-programming/working-csv-files)
 - [__math__](/py/modules/math.py)
+- [_Py docs: multiprocessing_](https://docs.python.org/3.7/library/multiprocessing.html)
+    - [__multiprocessing__](/py/modules/multiprocessing.md)
 - [__struct__]
 - [__pickle__]
 - [__socket__]

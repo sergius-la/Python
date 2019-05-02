@@ -10,7 +10,7 @@ Print environment variables
 print(os.environ)
 ```
 
- Set / Edit environment variables - [Stack Overflow](https://stackoverflow.com/questions/5971312/how-to-set-environment-variables-in-python)
+[_Stack Overflow: Set / Edit environment variables_](https://stackoverflow.com/questions/5971312/how-to-set-environment-variables-in-python)
 ```python
 os.environ["DEBUSSY"] = "1"
 ```
@@ -36,6 +36,32 @@ file_dir = os.path.abspath(os.path.dirname(__file__))
 Check path to a file
 ```python
 os.path.isfile("<path>")
+```
+
+[_Stack Overflow: Set / List of files and dirs_](https://stackoverflow.com/questions/3207219/how-do-i-list-all-files-of-a-directory)
+
+[_Py docs: os.listdir_](https://docs.python.org/2/library/os.html#os.listdir)
+
+```python
+files = os.listdir("path")
+```
+
+Save dirs names into csv file
+
+```python
+def save_dirs(path: str):
+    dirs = os.listdir(path)
+    with open("paths.csv", 'w',  newline='') as csvFile:
+        writer = csv.writer(csvFile)
+        for row in dirs:
+            writer.writerow([row])
+        csvFile.close()
+```
+
+## Process id
+
+```puthon
+os.getpid()
 ```
 
 <!-- """
