@@ -155,6 +155,8 @@ print("Hello World!")
 
 [_[RU] Уроки Django 2.x_](https://www.youtube.com/watch?v=T0Xi8gWDrQ0&list=PLlWXhlUMyooaDkd39pknA1-Olj54HtpjX)
 
+`./manage.py runserver`
+
 [__Django__](/django/django.md)
 
 - [_Django docs: Templates_](https://docs.djangoproject.com/en/2.1/ref/templates/language/)

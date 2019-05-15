@@ -11,7 +11,8 @@
 ```
 
 ### Include
-https://docs.djangoproject.com/es/1.10/ref/templates/builtins/#include
+
+[_Django docs: Include_](https://docs.djangoproject.com/es/1.10/ref/templates/builtins/#include)
 
 ```html
 {% include "app/includes/block.html" %}
@@ -68,5 +69,12 @@ https://docs.djangoproject.com/es/1.10/ref/templates/builtins/#include
 
 ***
 
-## Images
+## Static files
+
+```html
+{% load static %}
+```
+
+### Images
+
 `<img src="/static{{path.0}}">`

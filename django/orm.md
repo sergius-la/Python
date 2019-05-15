@@ -3,12 +3,16 @@
 ### Django migrate
 
 ```shell
-$ ~/manage.py migrate
+./manage.py makemigrations
+```
+
+```shell
+./manage.py migrate
 ```
 
 ### Mapping Existing database:
-- `$ python manage.py inspectdb`
-- `$ python manage.py inspectdb > models.py`
+- `python manage.py inspectdb`
+- `python manage.py inspectdb > models.py`
 
 ##  Lookups
 
