@@ -61,7 +61,7 @@ print("Hello World!")
 - [__int__]
 - [__float__]
 
-## Data Structure
+<!-- ## Data Structure -->
 
 - [_Py docs: String_](https://docs.python.org/3.7/library/string.html)
     - [__string__](/py/data_structure/str.md)

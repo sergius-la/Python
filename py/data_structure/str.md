@@ -1,12 +1,18 @@
 # String
 
-methods:
-- .lower() - hello world!
-- .upper() - HELLO WORLD!
-- .split()
-- .strip()
-- .capitalize()
-- .isspace()
+
+| Method | Description |
+| --- | --- |
+| .lower() | hello world! |
+| .upper() | HELLO WORLD! |
+| .split() | ['Hello', 'World!'] |
+| .strip() | Remove spaces |
+| .capitalize() | |
+| .isspace() | |
+| .isalpha() | Combination of alphabetic |
+| .isalnum() | Alphanumeric is a combination of alphabetic and numeric characters |
+| len() | |
+| slice() [:] | |
 
 ```python
 """
