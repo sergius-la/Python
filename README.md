@@ -61,7 +61,7 @@ print("Hello World!")
 - [__int__]
 - [__float__]
 
-<!-- ## Data Structure -->
+## Data Structure
 
 - [_Py docs: String_](https://docs.python.org/3.7/library/string.html)
     - [__string__](/py/data_structure/str.md)
@@ -132,7 +132,7 @@ print("Hello World!")
 - [_Py docs: CSV File Reading and Writing_](https://docs.python.org/3/library/csv.html)
     - [__csv__](/py/csv.md)
     - [_CVS Files Tutorial_](https://www.programiz.com/python-programming/working-csv-files)
-- [__math__](/py/modules/math.py)
+- [__math__](/py/modules/math.md)
 - [_Py docs: multiprocessing_](https://docs.python.org/3.7/library/multiprocessing.html)
     - [__multiprocessing__](/py/modules/multiprocessing.md)
 - [__struct__]

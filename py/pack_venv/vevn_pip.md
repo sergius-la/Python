@@ -29,6 +29,12 @@ Install __pipenv__ package global <br>
 
 ## pip
 
+Install pip
+
+| OS | Command |
+| --- | --- |
+| macOS | `sudo easy_install pip`|
+
 #### pip install
 
 > Install list of requirements packages <br>
