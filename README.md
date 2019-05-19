@@ -58,7 +58,7 @@ print("Hello World!")
 
 ## Data Types
 
-- [__int__]
+- [__Integer:__ Data conversion, Integer overflow](/py/data_types/integer.md)
 - [__float__]
 
 ## Data Structure
