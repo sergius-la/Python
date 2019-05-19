@@ -18,4 +18,12 @@ num_str.__str__(10)
 
 #### `int` -> `float`
 
+#### `list` -> `int`
 
+[_Stack Overflow: list to int_](https://stackoverflow.com/questions/489999/convert-list-of-ints-to-one-number)
+
+```python
+nums = [1, 2, 3]
+magic = lambda nums: int(''.join(str(i) for i in nums))
+num = magic(nums)
+```
