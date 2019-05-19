@@ -9,13 +9,13 @@ if (abs(num) > (2 ** 31 - 1)):
 
 ## Data Conversion
 
-#### `int` --> `string`
+#### `int` -> `string`
 
 ```python
 num_str = str(10)
 num_str.__str__(10)
 ```
 
-#### `int` --> `float`
+#### `int` -> `float`
 
 
