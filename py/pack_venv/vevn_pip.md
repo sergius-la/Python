@@ -13,10 +13,12 @@ Create a vartual enviroment: <br>
 - `virtualenv venv --python=python3.7`
 
 Activate vartual enviroment:
-- Linux / Mac:
+- Linux:
     - `~` `/venv/bin/activate`
+- Mac:
     - `. bin/activate`
-- Windows `~` `venv\\Scripts\\activate.bat`
+- Windows: 
+    - `~` `venv\\Scripts\\activate.bat`
 
 ***
 
