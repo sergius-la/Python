@@ -108,8 +108,8 @@ print("Hello World!")
 
 - [_Py docs: Virtual Environments and Packages_](https://docs.python.org/3/tutorial/venv.html)
     - [__virtualenv / pip__](/py/pack_venv/vevn_pip.md)
-    - [__Modules & Packages__](/py/pack_venv/packahes.md)
-        - [__import:__ ImportError](/py/pack_venv/import.md)
+    - [__Modules & Packages__](/py/pack_venv/packages.md)
+        <!-- - [__import:__ ImportError](/py/pack_venv/import.md) -->
     - [__setup.py:__](/py/pack_venv/setup.md)
         - [_Stack overflow: module import error_](https://stackoverflow.com/questions/15368054/import-error-on-installed-package-using-setup-py)
         - [_setup.py (for humans)_](https://github.com/kennethreitz/setup.py)
