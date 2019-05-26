@@ -1,6 +1,10 @@
 # Plotly Offline
 
-Get output in the HTML format
+```html
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+```
+
+#### Get output in the HTML format
 
 ```python
 div = plotly.offline.plot(
@@ -8,6 +12,8 @@ div = plotly.offline.plot(
     include_plotlyjs=False, 
     output_type='div')
 ```
+
+#### Hello World - Plot
 
 ```python
 import plotly.offline

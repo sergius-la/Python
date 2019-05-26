@@ -70,13 +70,26 @@ if not os.path.exists(directory):
 
 ## Files
 
+#### Get list of files
+
+```python
+os.listdir(mydir)
+```
+
 #### Check file exist
 
 [_Stack Overflow: File exist_](https://stackoverflow.com/questions/82831/how-do-i-check-whether-a-file-exists-without-exceptions)
 
 ```python
-import os.path
 os.path.isfile(<path>) 
+```
+
+#### Delete file
+
+[_Stack Overflow: Delete files_](https://stackoverflow.com/questions/1995373/deleting-all-files-in-a-directory-with-python)
+
+```python
+os.remove(<path>)
 ```
 
 ## Process id
