@@ -1,9 +1,10 @@
 # Dictinary
 
-methods:
-- .items()
-- .keys()
-- .values()
+ Method | Description |
+| --- | --- |
+| .items() | |
+| .keys() | |
+| .values() | |
 
 ```python
 dict # "assignment

@@ -121,8 +121,9 @@ print("Hello World!")
 
 - [_Py docs: Configuration file parser_](https://docs.python.org/3/library/configparser.html)
     - [__config__](/py/config.md)
+    - [__class Config:__ Config, CSV, Path](https://github.com/sergius-la/android-memory-test/blob/master/android-memory-test/config.py)
 - [_Py docs: Operating system interfaces_](https://docs.python.org/3/library/os.html)
-    - [__os__: Environment Variables, Path, pid](/py/modules/os.md)
+    - [__os__: Environment Variables, Path, PID, Files, Dirs](/py/modules/os.md)
     - [__sys__](/py/modules/sys.md)
 - [_Py docs: Basic date and time types_](https://docs.python.org/3/library/datetime.html)
     - [_[EN] Date/time value manipulation_](https://pymotw.com/2/datetime/)
@@ -188,6 +189,7 @@ print("Hello World!")
     - [_Plotly docs: go.Bar_](https://plot.ly/python/bar-charts/)
     - [_Plotly docs: go.Scatter_](https://plot.ly/python/line-and-scatter/)
         - [_Plotly docs: go.Scatter(args)_](https://plot.ly/python/reference/#scatter)
+        - [__Scatter:__ Offline, csv data](https://github.com/sergius-la/android-memory-test/blob/master/android-memory-test/graph.py)
     
 
 ***

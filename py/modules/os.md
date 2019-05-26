@@ -58,6 +58,27 @@ def save_dirs(path: str):
         csvFile.close()
 ```
 
+## Dirs
+
+[_Stack Overflow: Safety create dirs exist_](https://stackoverflow.com/questions/273192/how-can-i-safely-create-a-nested-directory)
+
+```python
+import os
+if not os.path.exists(directory):
+    os.makedirs(directory)
+```
+
+## Files
+
+#### Check file exist
+
+[_Stack Overflow: File exist_](https://stackoverflow.com/questions/82831/how-do-i-check-whether-a-file-exists-without-exceptions)
+
+```python
+import os.path
+os.path.isfile(<path>) 
+```
+
 ## Process id
 
 ```puthon
