@@ -48,6 +48,7 @@ print("Hello World!")
     - [__sorted()__]
     - [__isinstance()__]
     - [__round()__]
+    - [__dir(object)__]
     
 
 ## Try Except (Catch)
@@ -156,12 +157,15 @@ print("Hello World!")
 
 [_[RU] Уроки Django 2.x_](https://www.youtube.com/watch?v=T0Xi8gWDrQ0&list=PLlWXhlUMyooaDkd39pknA1-Olj54HtpjX)
 
-`./manage.py runserver`
+- `./manage.py runserver`
+- `./manage.py shell`
 
-[__Django__](/django/django.md)
+[__Django Notes__](/django/django.md)
 
 - [_Django docs: Templates_](https://docs.djangoproject.com/en/2.1/ref/templates/language/)
     - [__Django template__](/django/template.md)
+    - [__Models__]
+    - [__Forms__]
 - [_Django docs: Static files_](https://docs.djangoproject.com/en/2.1/howto/static-files/)
 - [_Django docs: Lookups_](https://docs.djangoproject.com/en/2.1/ref/models/lookups/)
     - [__Object relation mapping__](/django/orm.md)
@@ -261,6 +265,8 @@ VS Code - Enable PyTest
 
 - [_Beautiful Soup docs_](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
     - [__soup__](/soup/soup.md)
+- Usage:
+    - [__HTML Report__](https://github.com/sergius-la/android-memory-test/blob/master/android-memory-test/report.py)
 
 ***
 

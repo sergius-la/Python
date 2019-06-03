@@ -11,3 +11,14 @@
 ```shell
 ./manage.py runserver <port>
 ```
+
+### Logging
+
+Print to log
+
+```python
+import logging
+
+logger = logging.getLogger(__name__)
+logger.error("Hello World")
+```
