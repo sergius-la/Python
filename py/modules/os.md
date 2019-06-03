@@ -5,13 +5,18 @@ import os
 
 ## Environment Variables
 
-Print environment variables
 ```python
+os.environ # dict
+
+# All environment variables
 print(os.environ)
+
+# Accress to Environment Variable
+print(os.environ['HOME'])
 ```
 
 [_Stack Overflow: Set / Edit environment variables_](https://stackoverflow.com/questions/5971312/how-to-set-environment-variables-in-python)
-```python
+```python 
 os.environ["DEBUSSY"] = "1"
 ```
 
