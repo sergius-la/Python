@@ -151,6 +151,8 @@ print("Hello World!")
 
 # <img src="/img/django_icon.png" width="24" height="24"> Django
 
+<!-- [_Django docs: _]() -->
+
 `pip install Django`
 
 [_pip docs_](https://pypi.org/project/Django/)
@@ -167,6 +169,7 @@ print("Hello World!")
     - [__Models__]
     - [__Forms__]
 - [_Django docs: Static files_](https://docs.djangoproject.com/en/2.1/howto/static-files/)
+- [_Django docs: Logging_](https://docs.djangoproject.com/en/dev/topics/logging/)
 - [_Django docs: Lookups_](https://docs.djangoproject.com/en/2.1/ref/models/lookups/)
     - [__Object relation mapping__](/django/orm.md)
 
