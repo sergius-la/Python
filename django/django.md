@@ -12,13 +12,13 @@
 ./manage.py runserver <port>
 ```
 
-### Logging
+## Logging
 
-Print to log
+[_Django docs: Logging_](https://docs.djangoproject.com/en/dev/topics/logging/)
 
 ```python
 import logging
 
 logger = logging.getLogger(__name__)
-logger.error("Hello World")
+logger.error("Hello Error")
 ```
