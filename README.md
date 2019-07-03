@@ -33,7 +33,7 @@ print("Hello World!")
     - [_[RU] Что означает *args, **kwargs_](https://youtu.be/VJJ9wwzgJCA)
 - [__decorators__](/py/func/decorators.md)
     - [_[RU] Декораторы_](https://www.youtube.com/watch?v=Ss1M32pp5Ew)
-- [__generators__](/py/func/generaators.md)
+- [__generators__](/py/func/generators.md)
 - [__Measure execution time__](/py/func/exe_time.md)
 
 ## Built-in Functions
