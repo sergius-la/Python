@@ -108,7 +108,7 @@ print("Hello World!")
 ### Virtual Environments and Packages
 
 - [_Py docs: Virtual Environments and Packages_](https://docs.python.org/3/tutorial/venv.html)
-    - [__virtualenv / pip__](/py/pack_venv/vevn_pip.md)
+    - [__`virtualenv / pip`__](/py/pack_venv/vevn_pip.md)
     - [__Modules & Packages__](/py/pack_venv/packages.md)
         <!-- - [__import:__ ImportError](/py/pack_venv/import.md) -->
     - [__setup.py:__](/py/pack_venv/setup.md)
@@ -146,6 +146,26 @@ print("Hello World!")
 ## Python application structure
 
 - [_Python-application-layouts_](https://realpython.com/python-application-layouts/)
+
+```
+helloworld/
+│
+├── helloworld/
+│   ├── __init__.py
+│   ├── helloworld.py
+│   └── helpers.py
+│
+├── tests/
+│   ├── helloworld_tests.py
+│   └── helpers_tests.py
+│
+├── .gitignore
+├── LICENSE
+├── README.md
+├── requirements.txt // Reqired packages
+|── conftest.py // Unit testing config
+└── setup.py
+```
 
 ***
 
@@ -210,7 +230,7 @@ print("Hello World!")
 - [_PyTest docs_](https://docs.pytest.org/en/latest/)
     - [_PyTest docs: Parametrizing tests / DataProvider_](https://docs.pytest.org/en/latest/example/parametrize.html)
 
-[__pytest:__ DataProvider](/pytest/pytest.md)
+[__`pytest:`__ DataProvider](/pytest/pytest.md)
 
 
 Run tests - `py.test -v`

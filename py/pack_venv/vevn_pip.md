@@ -62,3 +62,10 @@ Install package for specific version of Python <br>
 
 `pip freeze`
 `pip freeze > requirements.txt`
+
+#### requirements.txt
+
+```
+pytest
+<package.name>
+```

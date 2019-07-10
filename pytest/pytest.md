@@ -14,28 +14,23 @@ Tests file starting with `test_`
 test_<name>.py
 ```
 
-Test name starting with `test_`
 ```python
-def test_<name>:
-    x = 2 + 2
-    assert x == 4
+# content of test_class.py
+
+class TestClass(object):
+
+    def test_one(self):
+        x = "this"
+        assert 'h' in x
+
+    def test_<name>(self):
+        x = "hello"
+        assert hasattr(x, 'check')
 ```
 
 ## Tests hierarchy
 
 [_PyTest docs: Group multiple tests in a class_](https://docs.pytest.org/en/latest/getting-started.html#group-multiple-tests-in-a-class)
-
-```python
-# content of test_class.py
-class TestClass(object):
-    def test_one(self):
-        x = "this"
-        assert 'h' in x
-
-    def test_two(self):
-        x = "hello"
-        assert hasattr(x, 'check')
-```
 
 Skip test
 
