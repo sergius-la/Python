@@ -94,7 +94,9 @@ os.path.isfile(<path>)
 [_Stack Overflow: Delete files_](https://stackoverflow.com/questions/1995373/deleting-all-files-in-a-directory-with-python)
 
 ```python
-os.remove(<path>)
+os.remove(<path>) # file
+os.rmdir() # removes an empty directory.
+shutil.rmtree() # deletes a directory and all its contents.
 ```
 
 ## Process id

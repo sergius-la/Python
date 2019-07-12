@@ -12,7 +12,7 @@ dict() # initialization
 ```
 
 ```python
-# dic = {key, value}
+# dict = {key, value}
 months = {
     1: "January",
     2: "February",
