@@ -65,7 +65,7 @@ print("Hello World!")
 ## Data Structure
 
 - [_Py docs: String_](https://docs.python.org/3.7/library/string.html)
-    - [__string__](/py/data_structure/str.md)
+    - [__`string`__](/py/data_structure/str.md)
 - [_Py docs: Dictinary_](https://docs.python.org/3/library/stdtypes.html#dict)
     - [__`dict`__](/py/data_structure/dict.md)
 - [_Py docs: List_](https://docs.python.org/3/library/stdtypes.html?highlight=list#lists)
