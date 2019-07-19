@@ -177,7 +177,18 @@ helloworld/
 
 [_pip docs_](https://pypi.org/project/Django/)
 
-[_[RU] Уроки Django 2.x_](https://www.youtube.com/watch?v=T0Xi8gWDrQ0&list=PLlWXhlUMyooaDkd39pknA1-Olj54HtpjX)
+Version <br>
+`python -m django --version`
+
+TODO: Move to Links: <br>
+[_[RU] Уроки Django 2.x_](https://www.youtube.com/watch?v=T0Xi8gWDrQ0&list=PLlWXhlUMyooaDkd39pknA1-Olj54HtpjX) <br>
+[_EN Python Django Tutorial_](https://www.youtube.com/watch?v=UmljXZIypDc&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
+
+- Django admin commands - `django-admin`
+- Start django project `django-admin startproject django_project`
+    - Start django app - `python manage.py startapp blog`
+
+***
 
 - `./manage.py runserver`
 - `./manage.py shell`
@@ -318,3 +329,9 @@ VS Code - Enable PyTest
 [_Pip docs_](https://pypi.org/project/scipy/)
 
 - [_Scipy docs_](https://www.scipy.org/docs.html)
+
+***
+
+# <img src="/img/" width="24" height="24"> Coverage
+
+`pip install coverage`
