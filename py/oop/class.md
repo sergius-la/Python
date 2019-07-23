@@ -36,3 +36,14 @@ class AbstractClass(metaclass=ABCMeta):
     def foo(self):
         pass
 ```
+
+## [_Stack Overflow: Static Class_](https://stackoverflow.com/questions/30556857/creating-a-static-class-with-no-instances)
+
+```python
+class World(object):
+  elements = []
+
+  @staticmethod
+  def add_element(x):
+    World.elements.append(x)
+```

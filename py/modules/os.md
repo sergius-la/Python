@@ -38,6 +38,11 @@ Path to the file's directory
 file_dir = os.path.abspath(os.path.dirname(__file__))
 ```
 
+[_Stack Overflow: Path to parent dir_](https://stackoverflow.com/questions/2860153/how-do-i-get-the-parent-directory-in-python#2860193)
+```python
+os.path.abspath(os.path.join(yourpath, os.pardir))
+```
+
 Check path to a file
 ```python
 os.path.isfile("<path>")
@@ -98,6 +103,23 @@ os.remove(<path>) # file
 os.rmdir() # removes an empty directory.
 shutil.rmtree() # deletes a directory and all its contents.
 ```
+
+#### Delete all files
+
+```python
+@staticmethod
+def clear_dir(path: str):
+    """
+    Method to clear all files in the dir
+    """
+
+    assert os.path.isdir(path)
+    files = os.listdir(path)
+    for f in files:
+        os.remove(f)
+```
+
+***
 
 ## Process id
 

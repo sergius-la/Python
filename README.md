@@ -73,7 +73,7 @@ print("Hello World!")
 - [_Py docs: Set, Frozenset_](https://docs.python.org/3/library/stdtypes.html?highlight=list#set-types-set-frozenset)
     - [__set__](/py/data_structure/set.md)
 - [_Py docs: ENUM_](https://docs.python.org/3/library/enum.html)
-    - [__enum__](/py/data_structure/enum.md)
+    - [__`enum`__](/py/data_structure/enum.md)
 - Collections:
     - [__Counter__](/py/data_structure/counter.md)
     - [__defaultdict__]
@@ -125,6 +125,7 @@ print("Hello World!")
     - [__class Config:__ Config, CSV, Path](https://github.com/sergius-la/android-memory-test/blob/master/android-memory-test/config.py)
 - [_Py docs: Operating system interfaces_](https://docs.python.org/3/library/os.html)
     - [__`os:`__ Environment Variables, Path, PID, Files, Dirs](/py/modules/os.md)
+      - TODO: Add Files class to work with files
     - [__sys__](/py/modules/sys.md)
 - [_Py docs: Basic date and time types_](https://docs.python.org/3/library/datetime.html)
     - [_[EN] Date/time value manipulation_](https://pymotw.com/2/datetime/)
