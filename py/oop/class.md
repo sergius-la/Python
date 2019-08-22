@@ -14,6 +14,10 @@ class CamelCaseName:
         pass
 
     def __init__(self, attribute: str):
+        // Attribute check
+        if not isinstance(attribute, str):
+            raise TypeError("attrib must be str, not %s" % (
+                attribute.__class__.__name__,))
         self._attribute = attribute
 
     @property
