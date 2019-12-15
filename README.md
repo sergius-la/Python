@@ -125,7 +125,7 @@ print("Hello World!")
     - [__class Config:__ Config, CSV, Path](https://github.com/sergius-la/android-memory-test/blob/master/android-memory-test/config.py)
 - [_Py docs: Operating system interfaces_](https://docs.python.org/3/library/os.html)
     - [__`os:`__ Environment Variables, Path, PID, Files, Dirs](/py/modules/os.md)
-      - TODO: Add Files class to work with files
+      - [`File Operations`](py/modules/file_ops.py)
     - [__sys__](/py/modules/sys.md)
     - [**subprocess**](py/modules/subprocess.md)
 - [_Py docs: Basic date and time types_](https://docs.python.org/3/library/datetime.html)
