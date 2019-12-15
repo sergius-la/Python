@@ -127,6 +127,7 @@ print("Hello World!")
     - [__`os:`__ Environment Variables, Path, PID, Files, Dirs](/py/modules/os.md)
       - TODO: Add Files class to work with files
     - [__sys__](/py/modules/sys.md)
+    - [**subprocess**](py/modules/subprocess.md)
 - [_Py docs: Basic date and time types_](https://docs.python.org/3/library/datetime.html)
     - [_[EN] Date/time value manipulation_](https://pymotw.com/2/datetime/)
     - [_Date time tutorial_](https://www.saltycrane.com/blog/2008/06/how-to-get-current-date-and-time-in/)
