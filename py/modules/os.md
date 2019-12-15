@@ -68,6 +68,18 @@ def save_dirs(path: str):
         csvFile.close()
 ```
 
+**Home Directory**
+
+```python
+import os.path
+homedir = os.path.expanduser("~")
+print(homedir)
+
+import os
+homedir = os.environ['HOME']
+print(homedir)
+```
+
 ## Dirs
 
 [_Stack Overflow: Safety create dirs exist_](https://stackoverflow.com/questions/273192/how-can-i-safely-create-a-nested-directory)
