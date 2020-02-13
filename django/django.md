@@ -12,7 +12,7 @@
 ./manage.py runserver <port>
 ```
 
-## Logging
+## Logs
 
 [_Django docs: Logging_](https://docs.djangoproject.com/en/dev/topics/logging/)
 
@@ -22,3 +22,5 @@ import logging
 logger = logging.getLogger(__name__)
 logger.error("Hello Error")
 ```
+
+## [Models](/django/models.md)
