@@ -24,3 +24,21 @@ logger.error("Hello Error")
 ```
 
 ## [Models](/django/models.md)
+
+## Migrations
+
+Migrations allow to do changes with alredy existing DB
+
+```shell
+# Initialise SQL code
+python manage.py makemigrations
+```
+
+```shell
+# Apply SQL code
+python manage.py migrate
+```
+
+## [Views](/django/views.md)
+
+## [Admin Console]()
