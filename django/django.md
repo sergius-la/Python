@@ -41,4 +41,6 @@ python manage.py migrate
 
 ## [Views](/django/views.md)
 
-## [Admin Console]()
+## [Admin Console](/django/admin_console.md)
+
+## [Templates](django/template.md)

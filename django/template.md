@@ -2,6 +2,8 @@
 
 - [Stack Overflow - Django & Bootstrap Template](https://stackoverflow.com/questions/10157059/how-can-i-use-bootstrap-with-django)
 
+- [Docs](https://docs.djangoproject.com/en/3.0/ref/templates/builtins/#built-in-template-tags-and-filters)
+
 ## Template inheritance
 
 ### Extends
